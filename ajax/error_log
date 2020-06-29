@@ -1,0 +1,6 @@
+[04-Mar-2020 20:13:26 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/wedding4/support.dsignstudio.com.mx/ajax/tickets.php on line 8
+[05-Mar-2020 07:45:33 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/wedding4/support.dsignstudio.com.mx/ajax/tickets.php on line 8
+[05-Mar-2020 17:23:47 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/wedding4/support.dsignstudio.com.mx/ajax/tickets.php on line 8
+[18-May-2020 20:05:35 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/wedding4/support.dsignstudio.com.mx/ajax/tickets.php on line 8
+[23-Jun-2020 13:59:28 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/wedding4/support.dsignstudio.com.mx/ajax/tickets.php on line 8
+[24-Jun-2020 14:32:45 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/wedding4/support.dsignstudio.com.mx/ajax/tickets.php on line 8

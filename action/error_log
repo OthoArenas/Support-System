@@ -1,0 +1,6 @@
+[04-Mar-2020 12:54:43 America/Mexico_City] PHP Warning:  mail() expects parameter 1 to be string, array given in /home4/wedding4/support.dsignstudio.com.mx/action/addticket.php on line 177
+[04-Mar-2020 12:54:57 America/Mexico_City] PHP Warning:  mail() expects parameter 1 to be string, array given in /home4/wedding4/support.dsignstudio.com.mx/action/addticket.php on line 126
+[04-Mar-2020 12:58:40 America/Mexico_City] PHP Warning:  mail() expects parameter 1 to be string, array given in /home4/wedding4/support.dsignstudio.com.mx/action/addticket.php on line 126
+[04-Mar-2020 12:59:28 America/Mexico_City] PHP Warning:  mail() expects parameter 1 to be string, array given in /home4/wedding4/support.dsignstudio.com.mx/action/addticket.php on line 126
+[04-Mar-2020 12:59:49 America/Mexico_City] PHP Warning:  mail() expects parameter 1 to be string, array given in /home4/wedding4/support.dsignstudio.com.mx/action/addticket.php on line 126
+[04-Mar-2020 13:00:51 America/Mexico_City] PHP Warning:  mail() expects parameter 1 to be string, array given in /home4/wedding4/support.dsignstudio.com.mx/action/addticket.php on line 126

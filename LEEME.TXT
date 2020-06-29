@@ -1,0 +1,27 @@
+GOLFO TICKET - Sistema de Tickets de Soporte
+
+	GOLFO TICKET es un sistema de Tickets de soporte de prÓposito general.
+
+   #################	GOLFO TICKET     ######################
+
+   DESCRIPCIÓN
+    GOLFO TICKET es un sistema para gestionar tickets de soporte usando Departamentos, Categorías, Prioridades y más, ideal para todo tipo de negocios, desarrollo de proyectos, gestión personal, etc, el sistema esta desarrollado con PHP y MySQL.
+   	GOLFO TICKET es un sistema de tickets de soporte en el que puedes rellenar tu perfil, agregar ticket, Departamentos y Categorías, generar reportes y mucho más.	
+
+
+
+------------------------- MÓDULOS ---------------------
+   	Defino a grandes rasgos los modulos generales del sistema
+    
+    Usuarios: Se puede agregar editar y eliminar usuarios.
+    Tickets: Cada usuario puede agregar un ticket.
+    Departamentos: Cada usuario puede agregar los Departamentos que desee.
+    Perfiles: Los usuarios pueden rellenar su perfil
+    Categorías: Los usuarios agregar Categorías.
+    Reportes: Los usuarios pueden generar reportes.
+
+
+
+INSTALACIÓN Y SOPORTE TÉCNICO
+
+Si deseas contratar el servicio de soporte técnico para el sistema de GOLFO TICKET debes enviar un E-mail a: othoniel.salazara@dsignstudio.com.mx, con el asunto "Soporte GOLFO TICKET", en donde se detalle el tipo de ayuda que se desea recibir. Luego se responderá mediante una cotización con el costo del servicio, forma de pago y tiempo de entrega.
